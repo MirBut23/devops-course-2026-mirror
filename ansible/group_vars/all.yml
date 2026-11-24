@@ -1,0 +1,5 @@
+app_image: "ghcr.io/mirbut23/devops-ci-app"
+app_tag: "e9af9c149de581ade289706427a8355f8c9b8e65"
+app_container_name: "devops-ci-app"
+app_host_port: 5000
+app_internal_port: 5000
